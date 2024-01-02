@@ -3,7 +3,7 @@ EasyMed Scan is a web application developed using Streamlit and Google's Gemini 
 
 Installation
 Clone the repository:
-git clone https://github.com/your_username/your_repository.git
+git clone https://https://github.com/Khalil-Rehman9/EasyMed-Scan.git
 cd your_repository
 Install the required dependencies:
 
